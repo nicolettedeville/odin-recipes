@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: purple;
+    font-family: 'Times New Roman', 'Verdana', serif;
+}
+
+.recipe {
+    background-color: silver;
+    color: darkorchid;
+    font-size: 30px;
+    text-align: center;
+}
+
+.recipe-list {
+    height: 500px;
+    text-align: center;
+    width: 500px;
+}
